@@ -6,7 +6,7 @@
 
 🌐 **[Español](#español) · [English](#english) · [Português](#português)**
 
-![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/mirachangertol/refs/heads/main/p1.png)
+![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/mirachangertol/refs/heads/main/preview1.png)
 
 
 
