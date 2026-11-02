@@ -6,6 +6,8 @@
 
 🌐 **[Español](#español) · [English](#english) · [Português](#português)**
 
+Cambia la mirilla/crosshair de Torrente On-Line
+
 ![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/mirachangertol/refs/heads/main/preview1.png)
 
 
