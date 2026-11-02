@@ -6,4 +6,4 @@
 
 Cambiar la mira (normal o telescópica) de Torrente On-Line facilmente
 
-![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/mirachangertol/refs/heads/main/preview1.png)
+![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/mirachangertol/refs/heads/main/p1.png)
