@@ -5,3 +5,5 @@
 ![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/mirachangertol/total?style=flat&color=blue)
 
 Cambiar la mira (normal o telescópica) de Torrente On-Line facilmente
+
+![Screenshot 55](https://raw.githubusercontent.com/Lahrenheit/mirachangertol/refs/heads/main/preview1.png)
